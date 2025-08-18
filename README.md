@@ -1,48 +1,55 @@
-Hi, I’m Vincent 👋
+Got it — here’s a **professional, resume-style version** for your GitHub profile that highlights your skills and experience cleanly without the casual tone:
 
-I’m Vincent Phan, a recent Computer Science graduate from James Madison University with hands-on experience in IT support, cloud architecture, and cybersecurity. I enjoy designing scalable systems, automating deployments, and building secure, innovative solutions.
+---
 
-📫 Reach out to me!
-LinkedIn Badge • Mail Badge • Portfolio Badge
+## About Me
 
-What I’m Currently Working On
+I am Vincent Phan, a Computer Science graduate from James Madison University with experience in cloud architecture, IT support, and cybersecurity. My background includes building enterprise-ready Azure solutions, implementing automated deployments with Terraform, and designing Capture the Flag modules to teach cloud security best practices. I am seeking opportunities to apply my technical expertise to build secure, scalable systems that drive impact.
 
-☁️ Architecting modular Azure-based enterprise solutions with services like Azure Functions, App Service, and Blob Storage
-🔒 Designing Capture the Flag challenges that teach cloud security and incident response
-🚀 Automating infrastructure with Terraform and Azure DevOps for reproducible deployments
-📊 Developing dashboards and monitoring solutions with Next.js and Azure Monitor
+## Current Focus
 
-Recent Professional Experience
+* Designing and deploying modular Azure solutions (Functions, App Service, Blob Storage)
+* Automating infrastructure with Terraform and Azure DevOps
+* Implementing monitoring and logging solutions with Azure Monitor and Log Analytics
+* Developing cybersecurity training environments through Capture the Flag challenges
 
-Cloud Solutions Architect (2024–2025) – Designed and deployed secure Azure environments, implemented logging/monitoring, and integrated AI services with Azure OpenAI
+## Professional Experience
 
-IT Help Desk Support (2022–2024) – Provided end-user support, configured Active Directory, and managed VMware environments for enterprise clients
+* **Cloud Solutions Architect (2024–2025)**
 
-Cybersecurity Club / Capture the Flag Projects – Built hands-on labs simulating real-world misconfigurations and privilege escalation
+  * Architected Azure environments with secure IAM, monitoring, and automation
+  * Integrated AI services using Azure OpenAI for enterprise applications
+* **IT Help Desk Support (2022–2024)**
 
-Notable Projects & Achievements
+  * Supported enterprise users, configured Active Directory, and managed VMware systems
+  * Improved IT workflows by streamlining incident response and system patching
+* **Cybersecurity Club Projects (Ongoing)**
 
-🏆 Built cloud security training labs adopted in university workshops
-🤖 Developed automation scripts reducing VM setup time from hours to minutes
-🖥️ Designed multi-tenant file sharing solution with Azure Blob Storage + API Management
-🎓 Led Women in Tech cybersecurity awareness events
+  * Developed hands-on labs simulating misconfigured IAM roles and cloud vulnerabilities
+  * Led workshops to enhance cloud security awareness and incident detection skills
 
-Core Technologies & Skills
+## Projects & Achievements
 
-Cloud & DevOps: Azure, AWS, Terraform, Docker
-Programming: Python, Java, C, Haskell, Ruby
-Infrastructure & Security: Active Directory, VMware, Key Vault, RBAC
-Frontend & Backend: React, Next.js, Node.js, TypeScript
+* Built automation pipelines reducing VM provisioning time by over 70%
+* Designed secure multi-tenant file sharing with Azure Blob Storage and API Management
+* Published academic work on AI and cloud security integrations
+* Organized Women in Tech cybersecurity awareness events
 
-Education & Certifications
+## Technical Skills
 
-🎓 B.S. Computer Science – James Madison University (2025)
-☁️ AWS Certified Cloud Practitioner (2024–2027)
-📄 Published work on cloud security & AI integrations
+* **Cloud & DevOps:** Azure, AWS, Terraform, Docker, Azure DevOps
+* **Programming:** Python, Java, C, Haskell, Ruby, TypeScript
+* **Infrastructure & Security:** Active Directory, VMware, Microsoft Defender, RBAC
+* **Web Development:** React, Next.js, Node.js
 
-Let’s Connect!
+## Education & Certifications
 
-🌐 Portfolio: vincentmphan.com
-💼 LinkedIn: linkedin.com/in/vincentmphan
-📧 Email: vincentmphan@gmail.com
-📍 Location: Virginia (Open to relocating)
+* **B.S. Computer Science** – James Madison University (2025)
+* **AWS Certified Cloud Practitioner** (2024–2027)
+
+## Contact
+
+* 🌐 Portfolio: vincentmphan.com
+* 💼 LinkedIn: linkedin.com/in/vincentmphan
+* 📧 Email: [vincentmphan@gmail.com](mailto:vincentmphan@gmail.com)
+* 📍 Location: Virginia (Open to relocating)
