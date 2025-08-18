@@ -36,5 +36,5 @@ I am Vincent Phan, a Computer Science graduate from James Madison University wit
 
 * 🌐 Portfolio: vincentmphan.com
 * 💼 LinkedIn: linkedin.com/in/vincentphan03
-* 📧 Email: [vincentmphan@gmail.com](mailto:vincentmphan@gmail.com)
+* 📧 Email: [vincentphan2021@gmail.com](mailto:vincentphan2021@gmail.com)
 * 📍 Location: Virginia (Open to relocating)
