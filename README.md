@@ -1,7 +1,3 @@
-Got it — here’s a **professional, resume-style version** for your GitHub profile that highlights your skills and experience cleanly without the casual tone:
-
----
-
 ## About Me
 
 I am Vincent Phan, a Computer Science graduate from James Madison University with experience in cloud architecture, IT support, and cybersecurity. My background includes building enterprise-ready Azure solutions, implementing automated deployments with Terraform, and designing Capture the Flag modules to teach cloud security best practices. I am seeking opportunities to apply my technical expertise to build secure, scalable systems that drive impact.
