@@ -30,7 +30,6 @@ I am Vincent Phan, a Computer Science graduate from James Madison University wit
 ## Education & Certifications
 
 * **B.S. Computer Science** – James Madison University (2025)
-* **AWS Certified Cloud Practitioner** (2024–2027)
 
 ## Contact
 
